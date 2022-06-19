@@ -2,12 +2,12 @@
 
 A simple animated login, signup form UI build with React and Vite
 
-[Live Demo](https://fake-shopping-cart.quang.work) :point_left:
+[Live Demo](https://animated-form.quang.work) :point_left:
 
 ## Getting started
 
 ```
-git clone https://github.com/quang1225/fake-shopping-cart.git
+git clone https://github.com/quang1225/animated-login-signup-form.git
 cd fake-shopping-cart
 npm install
 npm dev
