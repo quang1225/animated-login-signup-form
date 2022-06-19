@@ -1,4 +1,4 @@
-# Fake Shopping cart
+# Animated Login Signup Form
 
 A simple animated login, signup form UI build with React and Vite
 
